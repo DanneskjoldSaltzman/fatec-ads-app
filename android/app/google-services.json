@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073714084502",
+    "project_id": "fatec-adson-projeto-mobile",
+    "storage_bucket": "fatec-adson-projeto-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073714084502:android:45371325d2b1b1a29ee0b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073714084502-mamjd5o8b6sop0k25dg3em8h4i8i9aog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6o2aCQt-jZN5xNd2EvWwWMtkN_0ok674"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073714084502-mamjd5o8b6sop0k25dg3em8h4i8i9aog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
